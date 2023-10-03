@@ -1,10 +1,10 @@
 🚀 **Navigating Through Atmospheric Data with Precision: Your Guide to ERA5 Data Download and Insightful Plotting!**
 
-Embark on a data-driven journey through the atmospheric realms with our codes, precisely designed for the ERA5 climate dataset – a global climate dataset hosted by the ECMWF (European Centre for Medium-Range Weather Forecasts). 🌎💨
+Embark on a data-driven journey through the atmospheric realms with this code, precisely [designed for the ERA5 climate dataset](https://cds.climate.copernicus.eu/) – a global climate dataset hosted by the ECMWF (European Centre for Medium-Range Weather Forecasts). 🌎💨
 
 🔍 **Explore Code 1: Dive Deep into the ERA5 Data Retrieval**
 
-Our first code provides a simplified method for downloading ERA5 hourly data on pressure levels from 1940 to the present. 📥🌦️
+This first code provides a simplified method for downloading ERA5 hourly data on pressure levels from 1940 to the present. 📥🌦️
 
 **Steps:**
 
