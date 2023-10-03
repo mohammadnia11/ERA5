@@ -9,14 +9,19 @@ Our first code provides a simplified method for downloading ERA5 reanalysis data
 **Steps:**
 
 1 - **Get API Key:**
+
 Visit this website to create an account and obtain your API key.
 Create a text file in your Home directory named .cdsapirc and save the following inside it:
-url: https://cds.climate.copernicus.eu/api/v2
-key: [your API key]
-2-__Install cdsapi:__
+
+        url: https://cds.climate.copernicus.eu/api/v2
+        key: [your API key]
+
+2 - __Install cdsapi:__
+
         conda install -c conda-forge cdsapi
 Or
         pip install cdsapi
+        
 3 - __Modify and Run the Code:__
 
     Open Download_ERA5.py and adjust the variables, pressure levels, date, and area specifications (lat, lon, lat, lon) = (upper left, lower right) to your requirements.
