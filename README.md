@@ -4,7 +4,7 @@ Embark on a data-driven journey through the atmospheric realms with this code, p
 
 🔍 **Explore Code 1: Dive Deep into the ERA5 Data Retrieval**
 
-This first code provides a simplified method for downloading ERA5 hourly data on pressure levels from 1940 to the present. 📥🌦️
+This first code provides a simplified method for downloading [ERA5 hourly data on pressure levels from 1940 to the present](https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-pressure-levels?tab=overview). 📥🌦️
 
 **Steps:**
 
