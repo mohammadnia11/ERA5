@@ -54,6 +54,8 @@ Prerequisites:
 
 Note: Upon opening Plot_ERA5.py, you can modify the pressure level and variable you wish to plot.
 
+__Additionally__, you will obtain a text file output that you can utilize for your purposes, such as comparing it with other data.
+
 🌐**Why ERA5?**
 
 ERA5 provides a unique and extensive atmospheric dataset, offering a wealth of information such as wind patterns 🌬️, temperature profiles 🌡️, humidity levels 💦, and more, covering global data from 1979 to present. The depth and breadth of this dataset facilitate a plethora of research areas, including climate analysis, weather prediction, and environmental modeling, among others.
