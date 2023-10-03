@@ -8,7 +8,7 @@ Our first code provides a simplified method for downloading ERA5 reanalysis data
 
 **Steps:**
 
-1 - __Get API Key:__
+1 - **Get API Key:**
 Visit this website to create an account and obtain your API key.
 Create a text file in your Home directory named .cdsapirc and save the following inside it:
 url: https://cds.climate.copernicus.eu/api/v2
