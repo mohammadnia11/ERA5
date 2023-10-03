@@ -4,7 +4,7 @@ Embark on a data-driven journey through the atmospheric realms with our codes, p
 
 🔍 **Explore Code 1: Dive Deep into the ERA5 Data Retrieval**
 
-Our first code provides a simplified method for downloading ERA5 reanalysis data. 📥🌦️
+Our first code provides a simplified method for downloading ERA5 hourly data on pressure levels from 1940 to the present. 📥🌦️
 
 **Steps:**
 
