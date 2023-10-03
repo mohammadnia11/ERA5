@@ -20,7 +20,9 @@ Create a text file in your Home directory named .cdsapirc and save the following
 
         conda install -c conda-forge cdsapi
 Or
+
         pip install cdsapi
+        
         
 3 - __Modify and Run the Code:__
 
